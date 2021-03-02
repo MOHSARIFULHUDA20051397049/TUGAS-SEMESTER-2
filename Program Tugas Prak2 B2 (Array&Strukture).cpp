@@ -1,5 +1,5 @@
 //m. sariful huda 20051397049 2020A MI//
-// (2) ARRAY - Program bilangan polinomial
+//Program bilangan polinomial//
 
 #include <stdio.h>
 #include <stdlib.h>
