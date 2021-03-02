@@ -1,5 +1,5 @@
 //m. sariful huda 20051397049 2020A MI//
-// (1) ARRAY - Program membalik huruf 'P', 'E', 'N', 'S', 'I', 'T'//
+//Program membalik huruf 'P', 'E', 'N', 'S', 'I', 'T'//
 
 #include <iostream>
 using namespace std;
